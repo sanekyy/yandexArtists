@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">emptyProject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="firstFragmentTitle">Исполнители</string>
+    <string name="jsonUri">http://download.cdn.yandex.net/mobilization-2016/artists.json</string>
+    <string name="dance_electronic">dance, electronic</string>
+    <string name="albumTrack">albumTrack</string>
+    <string name="descriptionTitle">Биография</string>
+    <string name="description">Родился в Москве</string>
+    <string name="officialSite">Официальный сайт</string>
+    <string name="LoadImageErrorText">При загрузке изображения произошла ошибка</string>
+    <string name="repeatButtonText">Повторить попытку</string>
+</resources>
